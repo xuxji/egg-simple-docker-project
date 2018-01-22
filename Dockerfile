@@ -1,4 +1,4 @@
-FROM node
+FROM node:8.0.0
 
 MAINTAINER Jerry <xuxji.123@163.com>
 
